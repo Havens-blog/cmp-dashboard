@@ -42,8 +42,8 @@ export default {
   },
   data () {
     return {
-      email: 'info@yunion.cn',
-      copyright: '北京云联壹云技术有限公司',
+      email: 'chengyinghao@163.com',
+      copyright: '广州市技术有限公司',
     }
   },
   computed: {
